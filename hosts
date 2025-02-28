@@ -24,7 +24,7 @@
 # Last update: Or follow updates at https://github.com/vcondriuc/Adobe-URL-Block-List
 
 
-# Last update: 2025-02-27 17:02 UTC
+# Last update: 2025-02-28 13:28 UTC
 
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
@@ -1369,3 +1369,5 @@
 0.0.0.0 2i92ufkrgh.wzwva.adobestats.io
 0.0.0.0 8mmjnh000eq.auyzf.adobestats.io
 0.0.0.0 lu8efo180j.g51h4.adobestats.io
+0.0.0.0 ae9djwb9gp.adobestats.io
+0.0.0.0 t3ffctw910.adobestats.io
