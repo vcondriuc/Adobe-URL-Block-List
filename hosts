@@ -24,7 +24,7 @@
 # Last update: Or follow updates at https://github.com/vcondriuc/Adobe-URL-Block-List
 
 
-# Last update: 2026-07-16 19:02 UTC
+# Last update: 2026-07-18 03:18 UTC
 
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
@@ -4676,3 +4676,5 @@
 0.0.0.0 yooc080gjbs.jyqfm.adobestats.io
 0.0.0.0 zhp234mvi9t1.jyqfm.adobestats.io
 0.0.0.0 zrdjiy99m.jyqfm.adobestats.io
+0.0.0.0 workflow.licenses.adobe.com
+0.0.0.0 workflow-stage.licenses.adobe.com
